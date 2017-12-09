@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#8b8f99</color>
+    <color name="navTitleSelected">#ffcc2a</color>
+    <color name="navTitleNormal">#7f8796</color>
+    <color name="toolbar_color">#f3f7fb</color>
+    <color name="toolbar_text_color">#2b333e</color>
+    <color name="subAccountBackground">#fbfcfe</color>
+    <color name="subAccountText">#5c6470</color>
+    <color name="messageTimecolor">#939eae</color>
+    <color name="acc_list_bg">#fcfeff</color>
+    <color name="white">#ffffff</color>
+    <color name="btn_color">#2181bc</color>
+    <color name="message_primary_text">#2f3440</color>
+    <color name="msg_unread">#39414d</color>
+    <color name="seprator_line">#e3e4e6</color>
+    <color name="add_note">#00bbe5</color>
+    <color name="msg_detail_ring">#bfc3ca</color>
+    <color name="msg_notes_time">#8b8f99</color>
+</resources>

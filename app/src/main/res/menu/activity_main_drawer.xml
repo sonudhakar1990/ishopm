@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Home"
+            android:icon="@drawable/ic_menu_home_icon"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_vegitable"
+            android:icon="@drawable/ic_menu_store"
+            android:title="Vegitables" />
+        <item
+            android:id="@+id/nav_fruit"
+            android:icon="@drawable/ic_menu_store"
+            android:title="Fruits" />
+        <item
+            android:id="@+id/nav_food_factory"
+            android:icon="@drawable/ic_menu_store"
+            android:title="Food Factory" />
+
+        <item
+            android:id="@+id/nav_kitchen_appliances"
+            android:icon="@drawable/ic_menu_store"
+            android:title="Kitchen Appliances" />
+
+        <item
+            android:id="@+id/nav_room_appliances"
+            android:icon="@drawable/ic_menu_store"
+            android:title="Room Appliances" />
+
+        <item
+            android:id="@+id/nav_patanjali"
+            android:icon="@drawable/ic_menu_store"
+            android:title="Patanjali" />
+        <item
+            android:id="@+id/nav_other"
+            android:icon="@drawable/ic_menu_store"
+            android:title="Others" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_menu_setting_icon"
+            android:title="Account" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_aboutus"
+                android:icon="@drawable/ic_menu_aboutus"
+                android:title="About Us" />
+            <item
+                android:id="@+id/nav_policy"
+                android:icon="@drawable/ic_menu_privacy"
+                android:title="Privacy Policy" />
+        </menu>
+    </item>
+
+</menu>
